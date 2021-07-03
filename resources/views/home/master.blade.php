@@ -24,10 +24,7 @@
             </div>
         </div>
     </nav>
-<!-- banner -->
     
-    
-
     <div class="wrapper">
         <!-- untuk home -->
         <section id="home">
