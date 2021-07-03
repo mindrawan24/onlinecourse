@@ -24,12 +24,8 @@
             </div>
         </div>
     </nav>
-<!-- banner -->
-    
-    
-
     <div class="wrapper">
-        <!-- untuk home -->
+        <!-- section home -->
         <section id="home">
             <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.1769275626.1605867161" width="100%" height="100%" style="position: relative;"/>
             <div class="kolom">
@@ -41,7 +37,8 @@
             </div>
         </section>
 
-        <!-- untuk courses -->
+        <!-- untuk section courses -->
+        
         <section id="courses">
             <div class="kolom">
                 <p class="deskripsi">kami hadir sebagai solusi </p>
@@ -55,13 +52,13 @@
             <img src="https://image.freepik.com/free-vector/webinar-concept-illustration_114360-4764.jpg" height="100%"/>
         </section>
 
-        <!-- untuk tutors -->
+        <!-- untuk section tutors -->
+        
         <section id="tutors">
             <div class="tengah">
                 <div class="kolom">
                     <h2>Founders</h2>
                 </div>
-
                 <div class="tutor-list">
                     <div class="kartu-tutor">
                         <img src="https://krs.umm.ac.id/Poto/2019/201910370311218.JPG"/>
@@ -85,9 +82,7 @@
                     <h2>Our Partners</h2>
                     <p>Kami sangat menghargai hubungan yang kami miliki dengan mitra korporat kami. Baik secara aktif berpartisipasi dalam kegiatan pengajaran sekolah atau dengan membantu karier siswa dan lulusan kami, ada banyak cara yang dapat dilakukan oleh mitra perusahaan untuk menjalin hubungan yang saling menguntungkan.</p>
                 </div>
-            <br>
-            <br>
-            <br>
+            <br><br><br>
             <div class="partner-list">
             <div class="kartu-partner">
                 <img src="http://www.umm.ac.id/files/image/Logo%20umm%20ok.png"/>
@@ -145,15 +140,11 @@
         @endforeach
 		
         </div>
-        
-
         </ul>
 
       </div>
     </section><!-- End Frequently Asked Questions Section -->
 
-
-        
     </div>
 
     <div id="contact">
@@ -161,7 +152,6 @@
             <footer>
                 <div class="row">
                     <div class="col-lg-8 col-md-offset-2">
-                        
                         
                         <div style="text-align: center;" class="widget-contact row">
                              <div class="col-lg-6">
